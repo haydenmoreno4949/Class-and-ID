@@ -1,7 +1,44 @@
+.unifrakturcook-bold {
+  font-family: "UnifrakturCook", cursive;
+  font-weight: 700;
+  font-style: normal;
+}
+a{
+  font-family: UnifrakturCook,cursive ;
+}
 html {
   height: 100%;
   width: 100%;
 }
 body {
   font-family: Tahoma, san-serif;
+}
+
+.little{
+width: 100px;
+
+}
+#big{
+width: 500px;
+
+}
+
+.part1{
+color: brown;
+}
+.part2{
+
+  color: cornflowerblue;
+}
+.part3{
+  color: darkolivegreen;
+}
+p{
+  font-family: fantasy;
+}
+.important{
+  border-style: dotted;
+}
+.highlight{
+  background-color: hotpink;
 }
